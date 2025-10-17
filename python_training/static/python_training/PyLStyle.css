@@ -1,12 +1,21 @@
 body {
-background-color : e9edc9 ;
+background-color : FAF0E6 ;
 }
-div {
-background-color : 023047 ;
-border_radius ; 20 px ;
+.main {
+background-color : DEB887 ;
+border-radius : 20px ;
 margin-right : auto ;
+margin-left : auto ;
+margin-top :40px ;
 text-align : center ;
-width : 5 px ;
-height : 200 px ;
+width : 70% ;
+}
 
+.sec2{
+background-color : FFFAF0 ;
+width : 70% ;
+margin-left : auto ;
+margin-right : auto ;
+text-align : right ;
+border-radius : 10px ;
 }
