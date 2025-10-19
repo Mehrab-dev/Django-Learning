@@ -1,0 +1,35 @@
+body{
+background-color : DCEDC8 ;
+
+}
+
+.main-div {
+width : 80% ;
+background-color : 9CCC65 ;
+border-radius : 10px ;
+margin-right : auto ;
+margin-left : auto ;
+text-align : center ;
+margin-top : 20px ;
+
+}
+
+.sec1 {
+color : BF360C ;
+}
+
+.sec2 {
+text-align : left ;
+padding-left : 30px ;
+
+padding-top : 0px ;
+
+}
+.des {
+padding-top : 1px ;
+}
+
+.sec3 {
+padding-left : 30px ;
+text-align : left ;
+}
